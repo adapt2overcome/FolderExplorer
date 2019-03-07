@@ -1,0 +1,28 @@
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.exe.config
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.exe
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.pdb
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.csprojAssemblyReference.cache
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.Form1.resources
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.Properties.Resources.resources
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.csproj.GenerateResource.cache
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.exe
+C:\Users\Stefan Djordjevic\source\repos\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.pdb
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.exe.config
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.exe
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.pdb
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.csprojResolveAssemblyReference.cache
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.Form1.resources
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.Properties.Resources.resources
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.csproj.GenerateResource.Cache
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.exe
+C:\Users\i\Desktop\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.pdb
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\obj\Debug\DirectoryStructure.csprojResolveAssemblyReference.cache
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\obj\Debug\DirectoryStructure.Form1.resources
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\obj\Debug\DirectoryStructure.Properties.Resources.resources
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\obj\Debug\DirectoryStructure.csproj.GenerateResource.Cache
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\obj\Debug\DirectoryStructure.exe
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\obj\Debug\DirectoryStructure.pdb
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\bin\Debug\DirectoryStructure.exe.config
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\bin\Debug\DirectoryStructure.exe
+C:\Users\i\Desktop\DirectoryStructurev2\DirectoryStructure\bin\Debug\DirectoryStructure.pdb
